@@ -1,4 +1,4 @@
-/*no of times 5 repeat in a given number*/
+/*reverse the given number*/
 import java.util.Scanner;
 
 public class Num1{
