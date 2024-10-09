@@ -1,3 +1,4 @@
+/*sum of all digits of given number*/
 import java.util.Scanner;
 
 public class Num3{
