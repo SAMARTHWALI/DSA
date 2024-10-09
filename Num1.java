@@ -1,3 +1,4 @@
+/*no of times 5 repeat in a given number*/
 import java.util.Scanner;
 
 public class Num1{
