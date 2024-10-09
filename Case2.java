@@ -1,3 +1,5 @@
+/*cheak if given word is in capital*/
+
 import java.util.Scanner;
 
 public class Case2 {
