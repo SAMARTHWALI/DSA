@@ -1,7 +1,10 @@
+/*cprint fibonacci series*/
+
 import java.util.Scanner;
 
 public class Fib {
     public static void main(String[] args) {
+	    
 		System.out.println("enter the n value");
         Scanner sc = new Scanner(System.in);
 		int n=sc.nextInt();
