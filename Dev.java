@@ -1,6 +1,7 @@
+/*cheak gretest of 3 numbers*/
 import java.util.Scanner;
 
-public class Dev {
+public class Gretest {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 		System.out.println("enter first num");
