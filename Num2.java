@@ -1,6 +1,7 @@
+/*cheak given number is palindrome*/
 import java.util.Scanner;
 
-public class Num2{
+public class Palindrome{
     public static void main(String[] args) {
         int n = 56311365;
 		int original=n;
